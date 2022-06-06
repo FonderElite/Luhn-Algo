@@ -6,8 +6,11 @@ def show_banner(s):
         sys.stdout.write(bg.BLACK + Fore.GREEN + c + Fore.WHITE)
         sys.stdout.flush()
         time.sleep(1 / 100)
-    print(Fore.WHITE + "[" + Fore.GREEN + "+" + Fore.WHITE + ']'  + 'Generating')
-    time.sleep(0.5)
+    print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+    print("┃Made By FonderElite ┃ Github: https://github.com/FonderElite ┃")
+    print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+    print(Fore.WHITE + "[" + Fore.GREEN + "+" + Fore.WHITE + ']'  + 'Generating Possibly Valid CCs')
+    time.sleep(1)
 show_banner("""
 ██╗     ██╗   ██╗██╗  ██╗███╗   ██╗       █████╗ ██╗      ██████╗  ██████╗ 
 ██║     ██║   ██║██║  ██║████╗  ██║      ██╔══██╗██║     ██╔════╝ ██╔═══██╗

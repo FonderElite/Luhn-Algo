@@ -10,12 +10,12 @@
 
 ## Usage 
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
-```ps1
+```hs
 C:\Users\Administrator\Luhn-Algo> ./generate.ps1
 ```
 
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
-```bash
+```hs
 #Make the bash script executable
 ┌──(root㉿LAPTOP-6CIQC5G0)-[/]
 └─# chmod u+x generate.sh

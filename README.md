@@ -9,6 +9,18 @@
 <img src="https://i.ibb.co/sPFjF1x/Screenshot-23.png" width="500px">
 
 ## Usage 
+[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 ```ps1
 C:\Users\Administrator\Luhn-Algo> ./generate.ps1
+```
+
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+```bash
+#Make the bash script executable
+┌──(root㉿LAPTOP-6CIQC5G0)-[/]
+└─# chmod u+x generate.sh
+
+#Run the Script
+┌──(root㉿LAPTOP-6CIQC5G0)-[/]
+└─#./generate.sh
 ```

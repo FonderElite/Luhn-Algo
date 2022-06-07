@@ -1,4 +1,5 @@
-## Luhn-Algo
+
+## <img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" width="30px"> Luhn-Algo
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) 
 [![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 [![Maintenance](https://img.shields.io/badge/build-passing-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
@@ -8,7 +9,7 @@
 ## Demo
 <img src="https://i.ibb.co/sPFjF1x/Screenshot-23.png" width="500px">
 
-##Installation 
+## Installation 
 ```hs
 $git clone https://github.com/FonderElite/Luhn-Algo/
 ```

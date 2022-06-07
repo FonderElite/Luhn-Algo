@@ -9,6 +9,10 @@
 ## Demo
 <img src="https://i.ibb.co/sPFjF1x/Screenshot-23.png" width="500px">
 
+## Requirements
+* git
+* python3
+
 ## Installation 
 ```hs
 $git clone https://github.com/FonderElite/Luhn-Algo/

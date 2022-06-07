@@ -44,7 +44,6 @@ class LuhnAlgo(object):
         new_lst = str(flattened)[1:-1]
         remove_comma = new_lst.replace(',','')
         remove_whitespace = remove_comma.replace(' ','')
-        print(values)
         if validity % 10 == 0:
             print(bold_color + fg.GREEN +  "Valid: " + "".join(str(remove_whitespace).strip()) +fg.WHITE)
         else:

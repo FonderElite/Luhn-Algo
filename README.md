@@ -1,2 +1,4 @@
-# Luhn-Algo
-Luhn Algoritm in Python
+## Luhn-Algo
+> The Luhn algorithm or Luhn formula, also known as the "modulus 10" or "mod 10" algorithm, named after its creator, IBM scientist Hans Peter Luhn, is a simple checksum formula used to validate a variety of identification numbers, such as credit card numbers, IMEI numbers, National Provider Identifier numbers in the United States, Canadian Social Insurance Numbers, Israeli ID Numbers, South African ID Numbers, Swedish National identification numbers, Swedish Corporate Identity Numbers (OrgNr), Greek Social Security Numbers (ΑΜΚΑ), SIM card numbers and survey codes appearing on McDonald's, Taco Bell, and Tractor Supply Co. receipts.
+
+<img src="https://i.ibb.co/sPFjF1x/Screenshot-23.png" width="500px">

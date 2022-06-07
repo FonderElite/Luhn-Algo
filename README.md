@@ -21,7 +21,7 @@ $git clone https://github.com/FonderElite/Luhn-Algo/
 ## Usage 
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 ```hs
-C:\Users\Administrator\Luhn-Algo> ./generate.ps1
+C:\Users\Administrator\Luhn-Algo> ./generate.ps1  <number of times to generate>
 ```
 
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
@@ -32,6 +32,6 @@ C:\Users\Administrator\Luhn-Algo> ./generate.ps1
 
 #Run the Script
 ┌──(root㉿LAPTOP-6CIQC5G0)-[/]
-└─#./generate.sh
+└─#./generate.sh <number of times to generate>
 ```
 

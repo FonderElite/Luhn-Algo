@@ -8,6 +8,11 @@
 ## Demo
 <img src="https://i.ibb.co/sPFjF1x/Screenshot-23.png" width="500px">
 
+##Installation 
+```hs
+$git clone https://github.com/FonderElite/Luhn-Algo/
+```
+
 ## Usage 
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 ```hs
@@ -24,3 +29,4 @@ C:\Users\Administrator\Luhn-Algo> ./generate.ps1
 ┌──(root㉿LAPTOP-6CIQC5G0)-[/]
 └─#./generate.sh
 ```
+

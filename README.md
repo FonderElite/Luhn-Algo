@@ -12,6 +12,7 @@
 ## Requirements
 * git
 * python3
+* code editor
 
 ## Installation 
 ```hs
